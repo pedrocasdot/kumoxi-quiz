@@ -55,6 +55,8 @@ function App() {
       setGameState('QUIZ')
       setCurrentQuestionIndex(0)
       setScore(0)
+      setSelectedOption(null)
+      setIsCorrect(null)
     }
   }
 
