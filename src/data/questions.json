@@ -1,0 +1,208 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "category": "Technical",
+            "question": "Qual é a startup angolana pioneira em entregas de comida?",
+            "options": [
+                "Kubinga",
+                "Tupuca",
+                "Appy Saúde",
+                "Sócio"
+            ],
+            "answer": "Tupuca"
+        },
+        {
+            "id": 2,
+            "category": "Technical",
+            "question": "Quem é o CEO e Co-fundador da Tupuca?",
+            "options": [
+                "Erickson Mvezi",
+                "Pedro Beirão",
+                "Haymée Perez",
+                "Emerson Paim"
+            ],
+            "answer": "Erickson Mvezi"
+        },
+        {
+            "id": 3,
+            "category": "Technical",
+            "question": "Qual plataforma digital angolana foca na reserva e compra de bilhetes de viagem?",
+            "options": [
+                "T'Leva",
+                "Bilhetes Online",
+                "Sócio",
+                "Kubinga"
+            ],
+            "answer": "Sócio"
+        },
+        {
+            "id": 4,
+            "category": "Technical",
+            "question": "O 'Angosat-2' é um projeto de qual área tecnológica?",
+            "options": [
+                "Inteligência Artificial",
+                "Telecomunicações Espaciais",
+                "Energia Solar",
+                "Biotecnologia"
+            ],
+            "answer": "Telecomunicações Espaciais"
+        },
+        {
+            "id": 5,
+            "category": "Technical",
+            "question": "Qual concurso anual da Unitel premia os melhores desenvolvedores e startups?",
+            "options": [
+                "Unitel Code",
+                "Unitel Go Challenge",
+                "Unitel App Stars",
+                "Unitel Inova"
+            ],
+            "answer": "Unitel Go Challenge"
+        },
+        {
+            "id": 6,
+            "category": "Technical",
+            "question": "A Appy Saúde é conhecida por facilitar o acesso a:",
+            "options": [
+                "Transportes Públicos",
+                "Farmácias e Medicamentos",
+                "Restaurantes",
+                "Serviços de Limpeza"
+            ],
+            "answer": "Farmácias e Medicamentos"
+        },
+        {
+            "id": 7,
+            "category": "Technical",
+            "question": "Quem fundou a plataforma de pagamentos BayQi?",
+            "options": [
+                "Fátima Almeida",
+                "Isabel dos Santos",
+                "Vanda Oliveira",
+                "Nair de Almeida"
+            ],
+            "answer": "Fátima Almeida"
+        },
+        {
+            "id": 8,
+            "category": "Technical",
+            "question": "Qual aplicativo de mobilidade (táxis/entregas) é um dos maiores concorrentes locais do Yango?",
+            "options": [
+                "Heetch",
+                "Kubinga",
+                "Macau",
+                "Pai Profeta"
+            ],
+            "answer": "Heetch"
+        },
+        {
+            "id": 9,
+            "category": "Technical",
+            "question": "Qual instituição regula as comunicações eletrónicas em Angola?",
+            "options": [
+                "BNA",
+                "INACOM",
+                "Governo Provincial",
+                "AGT"
+            ],
+            "answer": "INACOM"
+        },
+        {
+            "id": 10,
+            "category": "Technical",
+            "question": "O 'Seedstars Luanda' é um evento focado em:",
+            "options": [
+                "Agricultura",
+                "Competição de Startups",
+                "Música Tradicional",
+                "Moda"
+            ],
+            "answer": "Competição de Startups"
+        },
+        {
+            "id": 11,
+            "category": "Technical",
+            "question": "Qual é a moeda digital/carteira móvel lançada pela Unitel?",
+            "options": [
+                "Unitel Money",
+                "Kwanza Digital",
+                "AngoPay",
+                "M-Pesa"
+            ],
+            "answer": "Unitel Money"
+        },
+        {
+            "id": 12,
+            "category": "Technical",
+            "question": "Qual é a maior loja de retalho de tecnologia e informática em Angola?",
+            "options": [
+                "Wammo",
+                "NCR Angola",
+                "Kero",
+                "Shoprite"
+            ],
+            "answer": "NCR Angola"
+        },
+        {
+            "id": 13,
+            "category": "Technical",
+            "question": "Quem é o Co-fundador da Appy Saúde?",
+            "options": [
+                "Anderson Brás",
+                "Erickson Mvezi",
+                "Joel Epalanga",
+                "Paulo Araújo"
+            ],
+            "answer": "Pedro Beirão"
+        },
+        {
+            "id": 14,
+            "category": "Technical",
+            "question": "Qual destas é uma Fintech angolana de pagamentos digitais?",
+            "options": [
+                "Pay Pay Africa",
+                "Multicaixa Express",
+                "PayPal",
+                "Stripe"
+            ],
+            "answer": "Pay Pay Africa"
+        },
+        {
+            "id": 15,
+            "category": "Technical",
+            "question": "Onde está localizado o parque tecnológico de Angola?",
+            "options": [
+                "Luanda",
+                "Benguela",
+                "Huíla",
+                "Luanda (Talatona)"
+            ],
+            "answer": "Luanda"
+        },
+        {
+            "id": 16,
+            "category": "Technical",
+            "question": "Qual empresa gere a rede de caixas automáticos (ATM) em Angola?",
+            "options": [
+                "BNA",
+                "EMIS",
+                "Unitel",
+                "Zap"
+            ],
+            "answer": "EMIS"
+        },
+        {
+            "id": 17,
+            "category": "Technical",
+            "question": "Qual é o nome do primeiro satélite angolano (lançado em 2017)?",
+            "options": [
+                "Angosat-1",
+                "Angosat-2",
+                "Kwanza-1",
+                "Luanda-Sat"
+            ],
+            "answer": "Angosat-1"
+        }
+    ]
+}
