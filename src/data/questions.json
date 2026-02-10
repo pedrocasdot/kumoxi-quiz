@@ -161,9 +161,9 @@
             "category": "Technical",
             "question": "Qual destas é uma Fintech angolana de pagamentos digitais?",
             "options": [
-                "Pay Pay Africa",
+                "Kwanza Online",
                 "Multicaixa Express",
-                "PayPal",
+                "Pay Pay Africa",
                 "Stripe"
             ],
             "answer": "Pay Pay Africa"
@@ -203,6 +203,186 @@
                 "Luanda-Sat"
             ],
             "answer": "Angosat-1"
+        },
+        {
+            "id": 18,
+            "category": "Technical",
+            "question": "Que empresa multinacional angolana gere cabos submarinos como o SACS?",
+            "options": [
+                "MSTelcom",
+                "Angola Cables",
+                "Unitel",
+                "TV Cabo"
+            ],
+            "answer": "Angola Cables"
+        },
+        {
+            "id": 19,
+            "category": "Technical",
+            "question": "Qual é o maior portal de emprego online em Angola?",
+            "options": [
+                "Jobartis",
+                "Emprego.ao",
+                "Linkedin Angola",
+                "Jornal de Angola"
+            ],
+            "answer": "Jobartis"
+        },
+        {
+            "id": 20,
+            "category": "Technical",
+            "question": "O que significa a sigla INAPEM?",
+            "options": [
+                "Instituto Nacional de Petróleos e Minas",
+                "Instituto Nacional de Apoio às Micro, Pequenas e Médias Empresas",
+                "Indústria Nacional de Pesca e Mar",
+                "Inovação Nacional para Empresas Modernas"
+            ],
+            "answer": "Instituto Nacional de Apoio às Micro, Pequenas e Médias Empresas"
+        },
+        {
+            "id": 21,
+            "category": "Technical",
+            "question": "Qual destes hubs é conhecido por incubar startups em Luanda?",
+            "options": [
+                "KiandaHub",
+                "LuandaHub",
+                "Angola Tech Hub",
+                "Kilamba Hub"
+            ],
+            "answer": "KiandaHub"
+        },
+        {
+            "id": 22,
+            "category": "Technical",
+            "question": "A 'Roque Online' é uma plataforma focada em:",
+            "options": [
+                "Música e Entretenimento",
+                "Conectar mercados informais à economia formal",
+                "Streaming de Vídeo",
+                "Dating"
+            ],
+            "answer": "Conectar mercados informais à economia formal"
+        },
+        {
+            "id": 23,
+            "category": "Technical",
+            "question": "Qual é o domínio de topo (ccTLD) oficial de Angola?",
+            "options": [
+                ".an",
+                ".ag",
+                ".ao",
+                ".al"
+            ],
+            "answer": ".ao"
+        },
+        {
+            "id": 24,
+            "category": "Technical",
+            "question": "Qual operadora móvel entrou no mercado angolano como a 4ª operadora global?",
+            "options": [
+                "Vodacom",
+                "Africell",
+                "Orange",
+                "MTN"
+            ],
+            "answer": "Africell"
+        },
+        {
+            "id": 25,
+            "category": "Technical",
+            "question": "A 'T'Leva' é conhecida principalmente por:",
+            "options": [
+                "Serviço de Táxi/Ride-hailing",
+                "Venda de Roupa",
+                "Educação Online",
+                "Seguros"
+            ],
+            "answer": "Serviço de Táxi/Ride-hailing"
+        },
+        {
+            "id": 26,
+            "category": "Technical",
+            "question": "Qual é a incubadora de empresas apoiada pela Embaixada dos Países Baixos em Angola?",
+            "options": [
+                "Orange Corners",
+                "Blue Corners",
+                "Green House",
+                "Red Start"
+            ],
+            "answer": "Orange Corners"
+        },
+        {
+            "id": 27,
+            "category": "Technical",
+            "question": "O que é o 'Multicaixa Express'?",
+            "options": [
+                "Um serviço de correios rápido",
+                "Um aplicativo de pagamentos interbancários",
+                "Um comboio de alta velocidade",
+                "Uma loja de conveniência"
+            ],
+            "answer": "Um aplicativo de pagamentos interbancários"
+        },
+        {
+            "id": 28,
+            "category": "Technical",
+            "question": "A 'Paratus Angola' (antiga ITA) atua principalmente no setor de:",
+            "options": [
+                "Agricultura",
+                "Fornecimento de Internet (ISP) e Data Centers",
+                "Transportes",
+                "Saúde"
+            ],
+            "answer": "Fornecimento de Internet (ISP) e Data Centers"
+        },
+        {
+            "id": 29,
+            "category": "Technical",
+            "question": "Quem é o fundador do 'Manifexto', agregador de notícias angolano?",
+            "options": [
+                "Zedilson Almeida",
+                "Mauro Yange",
+                "Joel Epalanga",
+                "Hélio Taveira"
+            ],
+            "answer": "Zedilson Almeida"
+        },
+        {
+            "id": 30,
+            "category": "Technical",
+            "question": "Qual é o nome do sistema de cabos submarinos que liga Angola diretamente ao Brasil?",
+            "options": [
+                "SACS (South Atlantic Cable System)",
+                "WACS",
+                "SAT-3",
+                "ACE"
+            ],
+            "answer": "SACS (South Atlantic Cable System)"
+        },
+        {
+            "id": 31,
+            "category": "Technical",
+            "question": "Qual destas é uma app angolana de streaming de música?",
+            "options": [
+                "Kisom",
+                "Spotify",
+                "Apple Music",
+                "Deezer"
+            ],
+            "answer": "Kisom"
+        },
+        {
+            "id": 32,
+            "category": "Technical",
+            "question": "A 'Sotzzo' é uma startup voltada para:",
+            "options": [
+                "Gestão de Resíduos e Reciclagem",
+                "Venda de Bilhetes",
+                "Entregas de Comida",
+                "Fintech"
+            ],
+            "answer": "Gestão de Resíduos e Reciclagem"
         }
     ]
 }
