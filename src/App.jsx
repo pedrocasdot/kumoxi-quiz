@@ -14,8 +14,16 @@ function App() {
   const [isShaking, setIsShaking] = useState(false)
 
   useEffect(() => {
-    const savedLeaderboard = JSON.parse(localStorage.getItem('kumoxi_quiz_leaderboard') || '[]')
-    setLeaderboard(savedLeaderboard)
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('clear_leaderboard') === 'true') {
+      localStorage.removeItem('kumoxi_quiz_leaderboard');
+      setLeaderboard([]);
+      // Clean URL without reloading
+      window.history.replaceState({}, document.title, window.location.pathname);
+    } else {
+      const savedLeaderboard = JSON.parse(localStorage.getItem('kumoxi_quiz_leaderboard') || '[]')
+      setLeaderboard(savedLeaderboard)
+    }
   }, [])
 
   const triggerConfetti = () => {
@@ -134,6 +142,55 @@ function App() {
             Começar Desafio 🚀
           </button>
         </form>
+        <button
+          className="btn option-btn"
+          style={{ marginTop: '15px', background: 'rgba(255, 255, 255, 0.1)' }}
+          onClick={() => setGameState('LEADERBOARD')}
+        >
+          🏆 Ver Leaderboard
+        </button>
+      </div>
+    )
+  }
+
+  if (gameState === 'LEADERBOARD') {
+    return (
+      <div className="glass-card">
+        <h1 className="title">🏆 Hall of Fame</h1>
+        <p className="subtitle" style={{ marginBottom: '20px' }}>Os maiores Sobas do Tech!</p>
+
+        <div style={{ marginTop: '20px', marginBottom: '30px' }}>
+          <table className="leaderboard">
+            <thead>
+              <tr>
+                <th style={{ textAlign: 'left', paddingBottom: '10px', color: 'var(--angola-yellow)' }}>Nome</th>
+                <th style={{ textAlign: 'right', paddingBottom: '10px', color: 'var(--angola-yellow)' }}>Score</th>
+              </tr>
+            </thead>
+            <tbody>
+              {leaderboard.length > 0 ? (
+                leaderboard.map((entry, idx) => (
+                  <tr key={idx}>
+                    <td style={{ padding: '8px 0' }}>
+                      {idx === 0 ? '🥇' : idx === 1 ? '🥈' : idx === 2 ? '🥉' : `#${idx + 1}`} {entry.name}
+                    </td>
+                    <td style={{ textAlign: 'right', padding: '8px 0' }}>{entry.score}/{entry.total}</td>
+                  </tr>
+                ))
+              ) : (
+                <tr>
+                  <td colSpan="2" style={{ textAlign: 'center', padding: '20px', color: 'var(--text-muted)' }}>
+                    Ainda sem registos. Sê o primeiro!
+                  </td>
+                </tr>
+              )}
+            </tbody>
+          </table>
+        </div>
+
+        <button className="btn btn-primary" onClick={() => setGameState('START')}>
+          Voltar
+        </button>
       </div>
     )
   }
