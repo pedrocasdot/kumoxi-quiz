@@ -383,6 +383,186 @@
                 "Fintech"
             ],
             "answer": "Gestão de Resíduos e Reciclagem"
+        },
+        {
+            "id": 33,
+            "category": "Technical",
+            "question": "O que significa a sigla 'API'?",
+            "options": [
+                "Application Programming Interface",
+                "Advanced Programming Interaction",
+                "Automated Processing Interface",
+                "Application Personal Internet"
+            ],
+            "answer": "Application Programming Interface"
+        },
+        {
+            "id": 34,
+            "category": "Technical",
+            "question": "Qual é a principal função do Git?",
+            "options": [
+                "Gerir bases de dados",
+                "Controlo de versões de código",
+                "Compilar programas Java",
+                "Editar imagens"
+            ],
+            "answer": "Controlo de versões de código"
+        },
+        {
+            "id": 35,
+            "category": "Technical",
+            "question": "Na programação, o que é um 'Bug'?",
+            "options": [
+                "Um vírus de computador",
+                "Uma falha ou erro no código",
+                "Um tipo de hardware",
+                "Uma linguagem de programação"
+            ],
+            "answer": "Uma falha ou erro no código"
+        },
+        {
+            "id": 36,
+            "category": "Technical",
+            "question": "Qual destas linguagens é padrão para estruturar páginas Web?",
+            "options": [
+                "Java",
+                "Python",
+                "HTML",
+                "C++"
+            ],
+            "answer": "HTML"
+        },
+        {
+            "id": 37,
+            "category": "Technical",
+            "question": "O que significa 'Full Stack Developer'?",
+            "options": [
+                "Programador que só trabalha com Design",
+                "Programador que gere servidores apenas",
+                "Programador que trabalha no Frontend e Backend",
+                "Especialista em redes de computadores"
+            ],
+            "answer": "Programador que trabalha no Frontend e Backend"
+        },
+        {
+            "id": 38,
+            "category": "Technical",
+            "question": "Qual o comando para iniciar um repositório Git?",
+            "options": [
+                "git start",
+                "git init",
+                "git new",
+                "git create"
+            ],
+            "answer": "git init"
+        },
+        {
+            "id": 39,
+            "category": "Technical",
+            "question": "O que é 'SaaS'?",
+            "options": [
+                "System as a Service",
+                "Software as a Service",
+                "Sales as a Service",
+                "Server as a System"
+            ],
+            "answer": "Software as a Service"
+        },
+        {
+            "id": 40,
+            "category": "Technical",
+            "question": "Quem criou o sistema operativo Linux?",
+            "options": [
+                "Steve Jobs",
+                "Bill Gates",
+                "Linus Torvalds",
+                "Mark Zuckerberg"
+            ],
+            "answer": "Linus Torvalds"
+        },
+        {
+            "id": 41,
+            "category": "Technical",
+            "question": "Qual destas NÃO é uma linguagem de programação?",
+            "options": [
+                "Python",
+                "HTML",
+                "Java",
+                "PHP"
+            ],
+            "answer": "HTML"
+        },
+        {
+            "id": 42,
+            "category": "Technical",
+            "question": "O que é 'Open Source'?",
+            "options": [
+                "Software pago e fechado",
+                "Código aberto disponível para todos",
+                "Um vírus informático",
+                "Uma marca de computadores"
+            ],
+            "answer": "Código aberto disponível para todos"
+        },
+        {
+            "id": 43,
+            "category": "Technical",
+            "question": "O que significa 'HTTP'?",
+            "options": [
+                "HyperText Bi-Protocol",
+                "High Transfer Text Protocol",
+                "HyperText Transfer Protocol",
+                "Hyper Technical Text Program"
+            ],
+            "answer": "HyperText Transfer Protocol"
+        },
+        {
+            "id": 44,
+            "category": "Technical",
+            "question": "No Scrum, quanto tempo dura normalmente um 'Sprint'?",
+            "options": [
+                "1 dia",
+                "6 meses",
+                "1 a 4 semanas",
+                "1 ano"
+            ],
+            "answer": "1 a 4 semanas"
+        },
+        {
+            "id": 45,
+            "category": "Technical",
+            "question": "O que é o 'Github'?",
+            "options": [
+                "Uma linguagem de programação",
+                "Um servidor de hospedagem de código fonte",
+                "Um sistema operacional",
+                "Um editor de texto"
+            ],
+            "answer": "Um servidor de hospedagem de código fonte"
+        },
+        {
+            "id": 46,
+            "category": "Technical",
+            "question": "Qual destes é um banco de dados NoSQL?",
+            "options": [
+                "MySQL",
+                "PostgreSQL",
+                "MongoDB",
+                "Oracle"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "id": 47,
+            "category": "Technical",
+            "question": "O que faz o CSS numa página web?",
+            "options": [
+                "Define a estrutura",
+                "Define o estilo e layout",
+                "Gere a lógica do servidor",
+                "Armazena dados"
+            ],
+            "answer": "Define o estilo e layout"
         }
     ]
 }
