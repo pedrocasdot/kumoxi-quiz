@@ -563,6 +563,150 @@
                 "Armazena dados"
             ],
             "answer": "Define o estilo e layout"
+        },
+        {
+            "id": 48,
+            "category": "Technical",
+            "question": "Em JavaScript, qual é o resultado de '2' + 2?",
+            "options": [
+                "4",
+                "22",
+                "NaN",
+                "Erro"
+            ],
+            "answer": "22"
+        },
+        {
+            "id": 49,
+            "category": "Technical",
+            "question": "O que é um 'Componente' em React?",
+            "options": [
+                "Um servidor de dados",
+                "Uma parte reutilizável da Interface (UI)",
+                "Um tipo de base de dados",
+                "Um erro de compilação"
+            ],
+            "answer": "Uma parte reutilizável da Interface (UI)"
+        },
+        {
+            "id": 50,
+            "category": "Technical",
+            "question": "Para que serve a linguagem SQL?",
+            "options": [
+                "Criar jogos 3D",
+                "Gerir e consultar bases de dados relacionais",
+                "Editar vídeos",
+                "Desenhar interfaces gráficas"
+            ],
+            "answer": "Gerir e consultar bases de dados relacionais"
+        },
+        {
+            "id": 51,
+            "category": "Technical",
+            "question": "Qual destas linguagens é usada para criar apps nativas para iPhone (iOS)?",
+            "options": [
+                "Java",
+                "Swift",
+                "Kotlin",
+                "PHP"
+            ],
+            "answer": "Swift"
+        },
+        {
+            "id": 52,
+            "category": "Technical",
+            "question": "O que significa 'Design Responsivo'?",
+            "options": [
+                "Design que responde a comandos de voz",
+                "Site que se adapta a diferentes tamanhos de ecrã (Mobile/Desktop)",
+                "Site que carrega muito rápido",
+                "Design feito por inteligência artificial"
+            ],
+            "answer": "Site que se adapta a diferentes tamanhos de ecrã (Mobile/Desktop)"
+        },
+        {
+            "id": 53,
+            "category": "Technical",
+            "question": "O que faz um loop 'While' na programação?",
+            "options": [
+                "Para o programa imediatamente",
+                "Repete um bloco de código enquanto uma condição for verdadeira",
+                "Define uma variável",
+                "Apaga dados do disco"
+            ],
+            "answer": "Repete um bloco de código enquanto uma condição for verdadeira"
+        },
+        {
+            "id": 54,
+            "category": "Technical",
+            "question": "O que é o Node.js?",
+            "options": [
+                "Um editor de texto",
+                "Um ambiente para executar JavaScript no servidor (Backend)",
+                "Uma nova linguagem de programação",
+                "Um navegador web"
+            ],
+            "answer": "Um ambiente para executar JavaScript no servidor (Backend)"
+        },
+        {
+            "id": 55,
+            "category": "Technical",
+            "question": "Qual framework JavaScript é mantida pelo Facebook (Meta)?",
+            "options": [
+                "Angular",
+                "Vue.js",
+                "React",
+                "Svelte"
+            ],
+            "answer": "React"
+        },
+        {
+            "id": 56,
+            "category": "Technical",
+            "question": "Para que serve o 'Docker'?",
+            "options": [
+                "Editar fotos",
+                "Criar e gerir contentores de aplicações",
+                "Escrever documentos de texto",
+                "Navegar na internet"
+            ],
+            "answer": "Criar e gerir contentores de aplicações"
+        },
+        {
+            "id": 57,
+            "category": "Technical",
+            "question": "O que é um 'Algoritmo'?",
+            "options": [
+                "Um tipo de computador antigo",
+                "Uma sequência lógica de passos para resolver um problema",
+                "Um componente de hardware",
+                "Uma marca de software"
+            ],
+            "answer": "Uma sequência lógica de passos para resolver um problema"
+        },
+        {
+            "id": 58,
+            "category": "Technical",
+            "question": "Em Python, qual símbolo é usado para comentários?",
+            "options": [
+                "//",
+                "<!-- -->",
+                "#",
+                "/* */"
+            ],
+            "answer": "#"
+        },
+        {
+            "id": 59,
+            "category": "Technical",
+            "question": "O que significa a sigla JSON?",
+            "options": [
+                "Java Standard Output Network",
+                "JavaScript Object Notation",
+                "Joint Server Online Network",
+                "Just Some Objects Name"
+            ],
+            "answer": "JavaScript Object Notation"
         }
     ]
 }
